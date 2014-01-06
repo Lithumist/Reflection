@@ -7,7 +7,7 @@ A 2D game about reflecting lasers to kill enemies. Being written in Python w/ Py
 
 A few notes to better understand the code:
 
- - classes, variables etc with a leading undersocre _ should be thought    of as 'private'. E.g, they should not be assigned to or called.
+ - classes, variables etc with a leading undersocre _ should be thought of as 'private'. E.g, they should not be assigned to or called.
 
  - all variables have a trailing underscore _ (except private ones or arguments)
 
