@@ -9,7 +9,7 @@ A 2D game about reflecting lasers to kill enemies. Being written in Python w/ Py
 TO START THE GAME PROPERLY:
  - Put all the crap that's in the repo in a folder called "whatever"
  - make a start.py file in "whatever"'s parent directory:
-	http://pastebin.com/U0GHSsnF
+	http://pastebin.com/pu9grEvg
  - run start.py to start the game!
 
 
