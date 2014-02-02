@@ -1,6 +1,6 @@
 Reflection.
 
-status: pre-alpha
+status: pre alpha 2
 
 A 2D game about reflecting lasers to kill enemies. Being written in Python w/ Pygame.
 
