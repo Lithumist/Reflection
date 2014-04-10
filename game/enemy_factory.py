@@ -1,0 +1,1 @@
+"""    enemy_factory.py        A class that can take in a gameinfo object and spawn enemies at the correct times.    """import sysimport osimport mathsys.path.append("C:/Python27/proj/BetterConsoleFunctions/V3")import bcfout = bcfimport pygamefrom pygame.locals import *import objectclass enemyFactory :    def __init__ () :            #/#/
