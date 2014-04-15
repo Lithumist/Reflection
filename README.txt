@@ -20,6 +20,6 @@ A few notes to better understand the code:
 
  - all variables have a trailing underscore _ (except private ones or arguments)
 
- - The actual ray reflection code is god-forsaken mess i'm so sorry (Working on making it better!)
+ - The actual ray reflection code has been improved and is now pretty!
 
  - The more I code the less shits I give about the previously mentioned naming convention.. Oh well have fun.
