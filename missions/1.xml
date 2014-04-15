@@ -1,0 +1,1 @@
+<reflection_mission>    <name>Mission 1</name>    <gameinfo>levels/1.xml</gameinfo>    <desc>Mission 1. This text will apear in the description box. Hello world! All this text should be word wrapped and all that jazz.</desc>    <offset>0</offset></reflection_mission>
